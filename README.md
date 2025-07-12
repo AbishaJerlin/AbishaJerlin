@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-### Hi, I'm Jerlin! 👋
+### 👋 Hi, I'm Jerlin!
 
 👩🏻‍💻 Computer Science student sharing my journey and learnings in tech  
 🎓 Studied Data Science at [Vels University](https://g.co/kgs/KQYynwo), India  
